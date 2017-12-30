@@ -2,7 +2,7 @@
 
 ## Build status
 
-[![Build Status](https://travis-ci.org/arioch/puppet-keepalived.png?branch=master)](https://travis-ci.org/arioch/puppet-keepalived)
+[![Build Status](https://travis-ci.org/roedie/puppet-keepalived.png?branch=master)](https://travis-ci.org/roedie/puppet-keepalived)
 
 ## Requirements
 
