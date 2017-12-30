@@ -1,5 +1,12 @@
 # Puppet Keepalived
 
+## NOTE!
+
+This is a fork from https://github.com/arioch/puppet-keepalived
+
+I'm not sure if that is actively maintained anymore. So I forked it to have my own
+version. Development will probaby be slow, but pull requests are welcome.
+
 ## Build status
 
 [![Build Status](https://travis-ci.org/roedie/puppet-keepalived.png?branch=master)](https://travis-ci.org/roedie/puppet-keepalived)
